@@ -1,0 +1,7 @@
+{
+  "name": "FlashMenu - Instant QR Menus",
+  "description": "A zero-friction MicroSaaS for creating digital menus in seconds. Just enter a name, and AI generates the menu and QR code instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
